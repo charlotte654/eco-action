@@ -2,21 +2,21 @@ body {
     background-color: rgb(255, 255, 255);
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    color:rgb(132, 179, 36);
 }
 
-a{
+a {
     border-color: black;
     border-style: solid;
 }
 
-img{
-    width:40%;
-    float:left;
+img {
+    width: 40%;
+    float: left;
 }
 
-.content{
-    width:60%;
-    float:left;
+.content {
+    width: 60%;
+    float: left;
 
 }
