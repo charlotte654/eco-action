@@ -5,6 +5,13 @@ body {
     color:rgb(132, 179, 36);
 }
 
+nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
 a {
     border-color: black;
     border-style: solid;
@@ -21,4 +28,22 @@ img {
 
 }
 
+/* h2{
+
+
+}
+
+p{
+
+
+} */
+
+footer{
+    clear: both;
+    background-color: rgb(93, 93, 93);
+    color: aliceblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height:200px;
+} 
 
