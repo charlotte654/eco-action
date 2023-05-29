@@ -70,3 +70,9 @@ a:visited {
     
     border-radius: 5px;
 }
+
+a:hover {
+    background-color: rgb(255, 255, 255);
+    color: darkolivegreen;
+
+}
