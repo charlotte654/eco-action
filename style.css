@@ -1,3 +1,4 @@
+/* these are the styles applied to everything in the body of all pages  */
 body {
     background-color: rgb(255, 255, 255);
     text-align: center;
@@ -5,6 +6,7 @@ body {
     color:rgb(132, 179, 36);
  
 }
+
 
 nav{
     padding-top: 20px;
@@ -31,15 +33,11 @@ a {
 
 }
 
-/* h2{
 
-
-}
 
 p{
-
-
-} */
+    color:rgb(98, 134, 25);
+}
 
 footer{
     clear: both;
