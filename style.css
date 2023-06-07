@@ -1,4 +1,6 @@
 /* these are the styles applied to everything in the body of all pages  */
+
+/* this is the background colour and the font colour for the heading and subheading */
 body {
     background-color: rgb(255, 255, 255);
     text-align: center;
@@ -7,25 +9,28 @@ body {
  
 }
 
-
+/* this is for the navigation bar this puts gaps above and below the nav bar */
 nav{
     padding-top: 20px;
     padding-bottom: 20px;
 
 }
 
-
+/* this part of codeing is for the border of each link  */
 a {
     border-color: black;
     border-style: solid;
 }
 
+
+/* this is for image1 and telling it where to be on the screen  */
 .img1 {
     width: 40%;
     float: left;
     margin-bottom: 40px;
 }
 
+/* this is telling the infomation where to be  */
 .content {
     width: 60%;
     float: left;
@@ -34,11 +39,13 @@ a {
 }
 
 
-
+/* this is the colour of the paragraphs */
 p{
     color:rgb(98, 134, 25);
 }
 
+
+/* this is the design for the fotter it is the background colour and the font colour and the space that is left inbetween */
 footer{
     clear: both;
     background-color: rgb(93, 93, 93);
@@ -49,10 +56,14 @@ footer{
     height:100px;
 } 
 
+
+/* heading size */
 h1 {
     font-size: 50px;
 }
 
+
+/* this is for the navigation bar it is the style and the code for the hover feature */
 a:link,
 a:visited {
 
